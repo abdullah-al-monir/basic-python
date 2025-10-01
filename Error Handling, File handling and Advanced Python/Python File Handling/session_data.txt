@@ -1,0 +1,4 @@
+Session Started: 2023-10-01
+User activity logged.
+User logged out.
+Session Ended: 2023-10-01
